@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://git.popcorntime.io/popcorntime/torrent-tracker.git"
+    "url": "https://github.com/butterproject/torrent-tracker.git"
   },
   "keywords": [
     "torrent",
@@ -18,7 +18,7 @@
   ],
   "license": "GPL-3.0",
   "dependencies": {
-    "URIjs": "^1.16.0",
+    "urijs": "^1.17.0",
     "bencode": "^0.7.0",
     "compact2string": "^1.4.0",
     "hat": "0.0.3",
@@ -33,8 +33,8 @@
   "_npmVersion": "2.5.1",
   "_nodeVersion": "0.12.1",
   "_npmUser": {
-    "name": "popcorntime",
-    "email": "press@popcorntime.io"
+    "name": "butterproject",
+    "email": "npm@butterproject.org"
   },
   "dist": {
     "shasum": "eb7b9e04b1730a9197fe23f1f1c54f9618aa577f",
@@ -42,8 +42,8 @@
   },
   "maintainers": [
     {
-      "name": "popcorntime",
-      "email": "press@popcorntime.io"
+      "name": "butterproject",
+      "email": "npm@butterproject.org"
     }
   ],
   "directories": {},
